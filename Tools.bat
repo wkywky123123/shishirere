@@ -1,7 +1,7 @@
 @echo off
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 if '%errorlevel%' NEQ '0' (
-echo 正在请求管理员权限...
+echo 正在申请管理员权限...
 goto UACPrompt
 ) else ( goto gotAdmin )
 :UACPrompt
