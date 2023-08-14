@@ -53,7 +53,7 @@ REM  QBFC Project Options End
 @echo off
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 if '%errorlevel%' NEQ '0' (
-echo ÕýÔÚÇëÇó¹ÜÀíÔ±È¨ÏÞ...
+echo æ­£åœ¨è¯·æ±‚ç®¡ç†å‘˜æƒé™...
 goto UACPrompt
 ) else ( goto gotAdmin )
 :UACPrompt
@@ -63,7 +63,7 @@ echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
 exit /B
 :gotAdmin
 
-echo ÕýÔÚÐÞ¸ÄhostsÎÄ¼þ...
+echo æ­£åœ¨ä¿®æ”¹hostsæ–‡ä»¶...
 cd C:\Windows\System32\drivers\etc
 echo  cd C:\Windows\System32\drivers\etc
 echo  172.67.193.224 www.shireyishunjian.com>>hosts
