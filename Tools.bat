@@ -10,7 +10,7 @@ echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
 "%temp%\getadmin.vbs"
 exit /B
 :gotAdmin
-
+ 
 echo 正在修改hosts文件...
 cd C:\Windows\System32\drivers\etc
 echo  cd C:\Windows\System32\drivers\etc
