@@ -40,7 +40,7 @@
 
 感谢以下贡献者为该工具做出的贡献：
 
-- [忾氧baby](https://github.com/wkywky123123) - 创建脚本
+- [忾氧baby](https://github.com/wkywky123123) - 发布工具
 
  ## 最后
 
