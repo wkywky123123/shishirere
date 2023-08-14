@@ -12,9 +12,7 @@
 
 ## 食用教程
 
-1.[选择适合你操作系统的版本](https://github.com/wkywky123123/shishirere/releases/tag/%E6%B9%BF%E6%B9%BF%E7%83%AD%E7%83%AD)
-
-2.下载
+1.[选择适合你操作系统的版本,然后下载](https://github.com/wkywky123123/shishirere/releases/tag/%E6%B9%BF%E6%B9%BF%E7%83%AD%E7%83%AD)
 
 2.双击运行
 
