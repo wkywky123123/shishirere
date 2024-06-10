@@ -1,6 +1,3 @@
-__version__ = "2.0.1"
-__author__ = "超级可爱的大笨蛋忾氧纸尿裤无限公司"
-
 import os
 import ctypes
 import tkinter as tk
